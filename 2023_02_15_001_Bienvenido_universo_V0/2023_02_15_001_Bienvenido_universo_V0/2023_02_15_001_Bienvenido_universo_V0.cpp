@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::cout << "Franky POWER!\n";
+    std::cout << "Franky SUPER!\n";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
